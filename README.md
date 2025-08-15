@@ -17,7 +17,7 @@ A modern, responsive React application that helps users discover and learn about
 ## 🚀 Live Demo
 
 **Vercel Deployment:** [Your App URL Here]
-**GitHub Repository:** [https://github.com/dhruvpahujaaa/GYM_Exercise](https://github.com/dhruvpahujaaa/GYM_Exercise)
+**GitHub Repository:** [https://github.com/dhruvpahujaaa/GYM_Exercise](https://gym-exercise-alpha.vercel.app/)
 
 ## 🛠️ Technologies Used
 
